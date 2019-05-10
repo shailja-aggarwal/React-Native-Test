@@ -1,0 +1,52 @@
+{
+  "user":[
+    {
+    "id":1,
+    "name":"test 1",
+    "age":11,
+    "gender":"male",
+    "email":"test1@gmail.com",
+    "phoneNo":9766678782
+    },
+    {
+    "id":2,
+    "name":"test 2",
+    "age":12,
+    "gender":"male",
+    "email":"test2@gmail.com",
+    "phoneNo":9865667867
+    },
+    {
+    "id":3,
+    "name":"test 3",
+    "age":13,
+    "gender":"male",
+    "email":"test3@gmail.com",
+    "phoneNo":9865667867
+    },
+    {
+    "id":4,
+    "name":"test 4",
+    "age":14,
+    "gender":"male",
+    "email":"test4@gmail.com",
+    "phoneNo":8656667678
+    },
+    {
+    "id":5,
+    "name":"test 5",
+    "age":15,
+    "gender":"male",
+    "email":"test5@gmail.com",
+    "phoneNo":8756777887
+    },
+    {
+    "id":6,
+    "name":"test 6",
+    "age":16,
+    "gender":"male",
+    "email":"test6@gmail.com",
+    "phoneNo":9876426677
+    }
+  ]
+}
