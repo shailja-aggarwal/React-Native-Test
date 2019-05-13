@@ -24,7 +24,16 @@ export const checkValidUser=(cb)=>{
     if(defaultCheck.username==username && defaultCheck.password==password){
       cb()
     }
+    else{
+      dispatch(setInvalidCredentials(true))
+    }
 
+  }
+}
 
+export const setInvalidCredentials=(data)=>{
+  return{
+    type:'INVALID_CREDENTIALS',
+    payload:data
   }
 }

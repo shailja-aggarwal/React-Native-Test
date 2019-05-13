@@ -6,18 +6,19 @@ import Dashboard from '../dashboard/components/Dashboard';
 
 
 const stackNavigator=createStackNavigator({
-  Dashboard:{
-    screen:Dashboard,
-    navigationOptions:{
-      header:null
-    }
-  },
   Login:{
     screen:Login,
     navigationOptions:{
       header:null
     }
   },
+  Dashboard:{
+    screen:Dashboard,
+    navigationOptions:{
+      header:null
+    }
+  },
+
 
 })
 

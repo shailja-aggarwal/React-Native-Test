@@ -20,7 +20,7 @@
     "id":3,
     "name":"test 3",
     "age":13,
-    "gender":"male",
+    "gender":"female",
     "email":"test3@gmail.com",
     "phoneNo":9865667867
     },
@@ -44,7 +44,7 @@
     "id":6,
     "name":"test 6",
     "age":16,
-    "gender":"male",
+    "gender":"female",
     "email":"test6@gmail.com",
     "phoneNo":9876426677
     }
